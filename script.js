@@ -1,10 +1,3 @@
-function isPalindrome(str){
-    /* Seu código aqui */
-}
-
-function arrayMaxMin(arr){
-    /* Seu código aqui */
-}
 function isPalindrome(str) {
     str = str.replaceAll(" ", "").toLowerCase();
     let inverso = "";
